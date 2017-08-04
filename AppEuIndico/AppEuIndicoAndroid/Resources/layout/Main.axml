@@ -5,9 +5,9 @@
     android:layout_height="match_parent"
     android:minWidth="25px"
     android:minHeight="25px">
-    <EditText
-        android:inputType="textPassword"
+    <RadioButton
+        android:text="RadioButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText1" />
+        android:id="@+id/radioButton1" />
 </LinearLayout>
